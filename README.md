@@ -1,10 +1,13 @@
 Online Learning Engagement & Student Performance Analysis
 
+
 📊 Project Overview
 
 The project analyzes online learning engagement and student performance using data analytics and visualization techniques. The goal is to understand how student engagement, clicks, performance levels, and other factors are associated with academic outcomes, pass rates, and dropout behavior.
 
 The project includes an interactive Online Education Analytics Dashboard that provides an overview of student performance and engagement.
+
+
 
 🎯 Objectives
 
@@ -21,6 +24,7 @@ Compare performance across different engagement levels.
 Analyze student distribution across different regions.
 
 Build an interactive dashboard for data-driven analysis.
+
 
 📌 Dashboard Highlights
 
@@ -51,6 +55,7 @@ Performance Level
 Region
 
 Final Result
+
 
 🔍 Key Analysis
 
@@ -84,6 +89,8 @@ Data Analysis – Student engagement and performance analysis
 
 Data Visualization – Charts, KPIs, filters, and interactive reports
 
+
+
 📂 Suggested Project Structure Online-Learning-Engagement-Analysis/ │
 
 ├── dataset/
@@ -112,7 +119,10 @@ Data Visualization – Charts, KPIs, filters, and interactive reports
 
 └── README.md
 
-📸 Dashboard Preview 📈 Insights
+
+📸 Dashboard Preview 
+
+📈 Insights
 
 The analysis can be used to investigate questions such as:
 
@@ -127,6 +137,8 @@ How are students distributed across regions?
 What patterns can be observed among students with different performance levels?
 
 How can engagement data be used to identify students who may require additional academic support?
+
+
 
 🚀 Future Improvements
 
@@ -143,6 +155,8 @@ Develop automated alerts for students showing declining engagement.
 Compare engagement before and after assessments.
 
 Add machine-learning models for predicting final performance.
+
+
 
 📌 Conclusion
 
